@@ -1,2 +1,2 @@
-# NCR-Sandbox
-Issues with my sandbox creation
+# Tech Innovation Sandbox Items
+Issues with the sandbox
